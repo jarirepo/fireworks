@@ -1,0 +1,17 @@
+{
+  "name": "fireworks-2017",
+  "version": "0.0.1",
+  "description": "Physics-based fireworks firing on the canvas",
+  "scripts": {
+    "dev": "webpack && webpack-dev-server --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jari Repo",
+  "license": "ISC",
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^1.1.5",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}
